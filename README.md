@@ -58,7 +58,14 @@
 
 - vue-anime 활용하여 넷플릭스처럼 처음 들어갈때 시선잡기용 로딩화면
 
-## ERD
+## 📃 ERD
 
 ![system](/image/erd.png)
-  
+
+## 🎞 추가 구현 화면
+
+![system](/image/slice.png)
+
+![system](/image/modal.png)
+
+![system](/image/tinder.png)
