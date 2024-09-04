@@ -67,7 +67,7 @@
 
 ## 🎞 추가 구현 화면
 
-## ⭐ Tinder
+### ⭐ Tinder
 
 ![system](/image/tinder.png)
 
