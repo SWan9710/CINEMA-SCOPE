@@ -1,5 +1,7 @@
 # 영화 추천 프로젝트 CINEMA - SCOPE
 
+<img src="/image/cinemascope" width="150px" height="50px">
+
 ## CINEMA - SCOPE 프로젝트 정보
 
 | 개발 기간 : 2023.05.17 ~ 2023.05.26
