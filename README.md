@@ -5,7 +5,7 @@
 | 개발 기간 : 2023.05.17 ~ 2023.05.26
 
 ## 👩🏻‍💻 팀원
-<table>
+<table align="center">
   <tr align="center">
     <td height="140px" align="center"> <a href="https://github.com/AndreaStudy">
       <img src="/image/hs.png" width="140px" /> <br><br> 정훈석 <br>(팀장) <br>(풀스택)</a> <br></td>
