@@ -1,6 +1,6 @@
 # 영화 추천 프로젝트 CINEMA - SCOPE
 
-<img src="/image/cinemascope" width="150px" height="50px">
+<img src="/image/cinemascope.png" width="150px" height="50px">
 
 ## CINEMA - SCOPE 프로젝트 정보
 
