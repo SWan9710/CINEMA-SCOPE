@@ -6,14 +6,14 @@
 
 ## 👩🏻‍💻 팀원
 <table align="center">
-  <tr width="200px">
+  <tr width="300px">
     <td height="140px" align="center"> <a href="https://github.com/AndreaStudy">
       <img src="/image/hs.png" width="140px" /> <br><br> 정훈석 <br>(팀장) <br>(풀스택)</a> <br></td>
       <td height="140px" align="center"> <a href="https://github.com/SWan9710">
       <img src="image/sw.png" width="140px" /> <br><br> 정수완 <br>(팀원) <br>(프론트)</a> <br></td>
   </tr>
-  <tr align="center">
-    <td width="200px">
+  <tr width="300px">
+    <td align="center">
       영화 데이터 수집 및 정제<br>
       db 구축<br>
       컴포넌트 세부 구조 정리<br>
