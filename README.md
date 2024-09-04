@@ -7,8 +7,10 @@
 ## 👩🏻‍💻 팀원
 <table>
   <tr>
-    <td height="140px" align="center"> <a href="https://github.com/AndreaStudy"></a></td>
-      
+    <td height="140px" align="center"> <a href="https://github.com/AndreaStudy">
+      <img src="/image/hs.png" width="140px" /> <br><br> 정훈석 <br>(팀장)</a> <br></td>
+      <td height="140px" align="center"> <a href="https://github.com/SWan9710">
+      <img src="image/sw.png" width="140px" /> <br><br> 정수완 <br>(팀원)</a> <br></td>
   </tr>
 </table>
 
