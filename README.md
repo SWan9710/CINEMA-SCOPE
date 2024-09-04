@@ -13,14 +13,14 @@
       <img src="image/sw.png" width="140px" /> <br><br> 정수완 <br>(팀원) <br>(프론트)</a> <br></td>
   </tr>
   <tr width="300px">
-    <td align="center" width="300px">
+    <td align="center" width="250px">
       영화 데이터 수집 및 정제<br>
       db 구축<br>
       컴포넌트 세부 구조 정리<br>
       오류 수정 및 디버깅<br>
       vue-tinder, vue-anime 활용<br>
     </td>
-    <td align="center" width="300px">
+    <td align="center" width="250px">
       컴포넌트 CRUD<br>
       세부 디테일 정의 <br>
       CSS <br>
