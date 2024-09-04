@@ -23,6 +23,7 @@
     <td align="center" width="250px">
       컴포넌트 CRUD<br>
       세부 디테일 정의 <br>
+      추가 기능 일부 구현 <br>
       CSS <br>
     </td>
   </tr>
@@ -58,14 +59,41 @@
 
 - vue-anime 활용하여 넷플릭스처럼 처음 들어갈때 시선잡기용 로딩화면
 
+- 슬라이싱을 활용한 내용 정리
+
+- 모달창을 이용한 추가 내용 
+
 ## 📃 ERD
 
 ![system](/image/erd.png)
 
 ## 🎞 추가 구현 화면
 
+### Tinder
+
+![system](/image/tinder.png)
+
+- vue-tinder의 스와이핑을 통해 해당 영화의 좋아요의 싫어요 기능 구현
+
+- api 통신을 스와이핑 마다 받아와 게임처럼 좋아하는 영화를 wish 리스트에 저장 가능
+
+![system](/image/wish.png)
+
+- vue-tinder 를 통해 위시리스트에 저장된 영화들
+
+### Slicing
+
 ![system](/image/slice.png)
+
+- 슬라이싱 기능을 이용하여 화면에 나타나는 글자 수 동일하게 조절
+
+- ... 버튼을 클릭하는 것으로 전체 내용이 나타남
+
+### Modal
 
 ![system](/image/modal.png)
 
-![system](/image/tinder.png)
+- 모달창 기능을 구현하여 추가 내용 및 사진을 화면에 띄우게 함
+
+- 사용자의 요구에 맞춰 동작 가능하도록 구현
+
