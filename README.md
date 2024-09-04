@@ -5,12 +5,26 @@
 | 개발 기간 : 2023.05.17 ~ 2023.05.26
 
 ## 👩🏻‍💻 팀원
-<table>
+<table alige="center">
   <tr>
     <td height="140px" align="center"> <a href="https://github.com/AndreaStudy">
-      <img src="/image/hs.png" width="140px" /> <br><br> 정훈석 <br>(팀장)</a> <br></td>
+      <img src="/image/hs.png" width="140px" /> <br><br> 정훈석 <br>(팀장) <br>(풀스택)</a> <br></td>
       <td height="140px" align="center"> <a href="https://github.com/SWan9710">
-      <img src="image/sw.png" width="140px" /> <br><br> 정수완 <br>(팀원)</a> <br></td>
+      <img src="image/sw.png" width="140px" /> <br><br> 정수완 <br>(팀원) <br>(프론트)</a> <br></td>
+  </tr>
+  <tr>
+    <td align="center">
+      영화 데이터 수집 및 정제<br>
+      db 구축<br>
+      컴포넌트 세부 구조 정리<br>
+      오류 수정 및 디버깅<br>
+      vue-tinder, vue-anime 활용<br>
+    </td>
+    <td align="center">
+      컴포넌트 CRUD<br>
+      세부 디테일 정의 <br>
+      CSS <br>
+    </td>
   </tr>
 </table>
 
