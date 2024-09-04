@@ -28,34 +28,12 @@
   </tr>
 </table>
 
+## 🔧 기술 스택
 
-### 팀원 정보 및 업무 분담
+### Front-End
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue&logoColor=white">
 
-##### 팀장: 정훈석
 
-        Back-end 담당
-
-            1. 영화 데이터 수집 및 정제
-
-            2. db 구축
-
-            3. 컴포넌트 세부 구조 정리
-
-            4. 오류 수정 및 디버깅
-
-            5. vue-tinder, vue-anime 활용
-
-##### 팀원: 정수완
-
-        Front-end 담당
-
-            1. 컴포넌트 기본 구조 정리
-
-            2. 세부 디테일 정의
-
-            3. CSS 적용
-
-#### 프로젝트 기간: 
 
 #### 목표
 
