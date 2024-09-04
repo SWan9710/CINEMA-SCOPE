@@ -44,23 +44,21 @@
   <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> 
 </div>
 
+## 🎯 구현 목표
 
+- 사용자에게  인기순, 신작순, 장르별 인기순 원하는 영화를 추천.
 
+- Tinder를 활용하여 랜덤으로 원하는 영화를 swipe를 통해 선택 할 수 있게 함.
 
+- 검색을 통해 원하는 영화에 대한 정보를 제공
 
+## ✏ 추가 기능
 
+- vue-tinder 기능활용
 
+- vue-anime 활용하여 넷플릭스처럼 처음 들어갈때 시선잡기용 로딩화면
 
-#### 목표
+## ERD
 
-1. 사용자에게  인기순, 신작순, 장르별 인기순 원하는 영화를 추천.
-
-2. Tinder를 활용하여 랜덤으로 원하는 영화를 swipe를 통해 선택 할 수 있게 함.
-
-3. 검색을 통해 원하는 영화에 대한 정보를 제공
-
-##### 추가기능
-
-    1. vue-tinder 기능활용
-
-    2. vue-anime 활용하여 넷플XX처럼 처음 들어갈때 시선잡기용 로딩화면
+![system](/image/erd.png)
+  
