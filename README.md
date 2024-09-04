@@ -1,15 +1,15 @@
 # 영화 추천 프로젝트 CINEMA - SCOPE
 
----
-
 ## CINEMA - SCOPE 프로젝트 정보
----
+
 | 개발 기간 : 2023.05.17 ~ 2023.05.26
 
----
 ## 👩🏻‍💻 팀원
 <table>
-  
+  <tr>
+    <td height="140px" align="center"> <a href="https://github.com/AndreaStudy"></a></td>
+      
+  </tr>
 </table>
 
 
