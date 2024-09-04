@@ -63,13 +63,11 @@
 
 - 모달창을 이용한 추가 내용 
 
-## 📃 ERD
 
-![system](/image/erd.png)
 
 ## 🎞 추가 구현 화면
 
-### ⭐ Tinder
+## ⭐ Tinder
 
 ![system](/image/tinder.png)
 
@@ -81,9 +79,7 @@
 
 - vue-tinder 를 통해 위시리스트에 저장된 영화들
 
----
-
-### ⭐ Slicing
+## ⭐ Slicing
 
 ![system](/image/slice.png)
 
@@ -91,13 +87,16 @@
 
 - ... 버튼을 클릭하는 것으로 전체 내용이 나타남
 
----
-
-### ⭐ Modal
+## ⭐ Modal
 
 ![system](/image/modal.png)
 
 - 모달창 기능을 구현하여 추가 내용 및 사진을 화면에 띄우게 함
 
 - 사용자의 요구에 맞춰 동작 가능하도록 구현
+
+
+## 📃 ERD
+
+![system](/image/erd.png)
 
