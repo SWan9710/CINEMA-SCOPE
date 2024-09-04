@@ -69,7 +69,7 @@
 
 ## 🎞 추가 구현 화면
 
-### Tinder
+### ⭐ Tinder
 
 ![system](/image/tinder.png)
 
@@ -81,7 +81,9 @@
 
 - vue-tinder 를 통해 위시리스트에 저장된 영화들
 
-### Slicing
+---
+
+### ⭐ Slicing
 
 ![system](/image/slice.png)
 
@@ -89,7 +91,9 @@
 
 - ... 버튼을 클릭하는 것으로 전체 내용이 나타남
 
-### Modal
+---
+
+### ⭐ Modal
 
 ![system](/image/modal.png)
 
